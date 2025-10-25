@@ -21,6 +21,16 @@ function addRoadNarrows(map) {
       installDate: 'Early 2000s',
       notes: 'Due to be Upgraded'
     },
+	  
+    {
+      id: 'RN-002',
+      name: 'Braddan Road',
+	  type: 'Road Narrows',
+      latlng: '54.16414326177997, -4.505772017987993',
+      makeModel: 'Telent 4G',
+      installDate: '2020',
+      notes: 'Only active during TT and MGP road closures'
+    },
   ];
 	
 	
@@ -68,4 +78,5 @@ function addRoadNarrows(map) {
       .bindPopup(popupText);
   });
 }
+
 
