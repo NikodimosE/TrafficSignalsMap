@@ -449,6 +449,14 @@ function addZebra(map) {
       latlng: '54.15593043286627, -4.491769569959431',
       notes: ''
     },
+	  
+	{
+      id: 'ZEB-056',
+      name: 'Nobles Hospital',
+	  type: 'Zebra Crossing',
+      latlng: '54.17243545657913, -4.505933726575053',
+      notes: ''
+    },
   ];
 	
 	
