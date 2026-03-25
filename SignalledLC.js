@@ -180,6 +180,16 @@ function addSignalLC(map) {
 	  operator:'Isle of Man Steam Railway',
       latlng: '54.0838782450077, -4.75454771575198',
       notes: ''
+    },	
+	  	  
+    {
+      id: 'SLC-018',
+      name: 'Bungalow Level Crossing',
+	  type: 'Signalled Railway Crossing',
+	  barriers: 'None',
+	  operator:'Snaefell Mountain Railway',
+      latlng: '54.25130760582355, -4.463158846303185',
+      notes: ''
     },
 	  
   ];
